@@ -1,0 +1,28 @@
+{
+  "name": "zws",
+  "version": "2.0.0",
+  "description": "A URL shortner that uses ZWS characters",
+  "main": "index.ts",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zws-im/zws.git"
+  },
+  "keywords": [
+    "zws",
+    "url",
+    "shortener",
+    "short"
+  ],
+  "author": "zws",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zws-im/zws/issues"
+  },
+  "homepage": "https://github.com/zws-im/zws#readme",
+  "dependencies": {
+    "typescript": "^3.7.5"
+  }
+}
