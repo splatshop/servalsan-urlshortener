@@ -70,7 +70,7 @@ module.exports = {
 				while (zws === '') {
 					const generated = generateZWS();
 					// eslint-disable-next-line no-await-in-loop
-					const unique = !Boolean(await collection.find({zws: generated}).count());
+					const unique = !(await collection.find({zws: generated}).count());
 
 					if (unique) {
 						zws = generated;
@@ -140,9 +140,9 @@ module.exports = {
 
 				if (doc) {
 					return {visits: doc.visits};
-				} else {
-					throw new MoleculerClientError('No such shortened URL', 404);
 				}
+
+				throw new MoleculerClientError('No such shortened URL', 404);
 			}
 		}
 	},

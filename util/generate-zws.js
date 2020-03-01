@@ -43,7 +43,7 @@ const chars = [
  */
 module.exports = function(length = 5) {
 	/** @type {string[]} */
-	let zws = new Array(length);
+	const zws = new Array(length);
 
 	return zws
 		.fill(null)
