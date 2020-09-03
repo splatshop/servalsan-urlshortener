@@ -1,7 +1,7 @@
 ---
 description: Shorten URLs with invisible spaces
 ---
-
+<img align="right" src="core/assets/images/icon/256.png" height="256" width="256">
 # Codename: Servalsan!
 
 Serval (サーバル) from [Kemono Friends](https://japari-library.com/wiki/Kemono_Friends) will ker-pop your URLS down to size.
