@@ -21,11 +21,11 @@ We've done a bit of research on what characters work on different platforms
 * [iMessage](https://support.apple.com/explore/messages) note: Tested on latest beta of iOS
 
 
-## Contributors
+## Contributors to ZWS
 
 ### Code Contributors
 
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+ZWS (the engine behind Servalsan) exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 <a href="https://github.com/zws-im/zws/graphs/contributors"><img src="https://opencollective.com/zws/contributors.svg?width=890&button=false" /></a>
 
 ### Financial Contributors
