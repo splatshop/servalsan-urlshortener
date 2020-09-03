@@ -2,9 +2,9 @@
 description: Shorten URLs with invisible spaces
 ---
 
-# Zero Width Shortener
+# Codename: Servalsan!
 
-Zero Width Shortener \(abbreviated as ZWS\) is a URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans.
+Serval (サーバル) from [Kemono Friends](https://japari-library.com/wiki/Kemono_Friends) will ker-pop your URLS down to size.
 
 ### Characters
 
